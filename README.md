@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com Data Science & Analytics na Cielo [Ciclo de Vida, Churn e Canais Digitais](https://www.cielo.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Estatística, Python e Machine Learning**
+- 🌱 Estou aprendendo **Estatística, Python e Machine Learning**
 
 - 💬 Me pergunte sobre **Power Bi, SQL, Excel e Python**
 
