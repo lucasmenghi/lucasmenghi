@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Menghi Missias</h1>
-<h3 align="center">Data Scientist | Analytics | Generative AI</h3>
+<h3 align="center">Data Scientist | Analytics | AI</h3>
 
 I'm a Data Scientist with over 5 years of experience delivering data-driven solutions across the payments, banking, retail, and healthcare industries. Throughout my career, I've worked at the intersection of Data Science, Analytics, Data Engineering, and Business Intelligence, transforming complex data into products and strategic business decisions.
 
