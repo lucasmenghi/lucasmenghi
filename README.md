@@ -1,39 +1,103 @@
-<h1 align="center">Olá 👋, Eu sou o Lucas Menghi Missias</h1>
-<h3 align="center">Fascinado pelo universo de Data Science & Analytics! 🤖</h3>
+<h1 align="center">Hi 👋, I'm Lucas Menghi Missias</h1>
+<h3 align="center">Data Scientist | Analytics | Data Engineering | Generative AI</h3>
 
-- 🔭 Atualmente estou trabalhando com Data Science & Analytics na Cielo [Ciclo de Vida, Churn e Canais Digitais](https://www.cielo.com.br/)
+I'm a Data Scientist with over 5 years of experience delivering data-driven solutions across the payments, banking, retail, and healthcare industries. Throughout my career, I've worked at the intersection of Data Science, Analytics, Data Engineering, and Business Intelligence, transforming complex data into products and strategic business decisions.
 
-- 🌱 Estou aprendendo **Estatística, Python e Machine Learning**
+Currently, I work at **Cielo**, where I lead the end-to-end development of Machine Learning and Generative AI solutions. My responsibilities include designing, developing, deploying, and maintaining predictive models for **product propensity**, **customer churn**, and **customer lifecycle**, directly supporting business growth and customer engagement strategies.
 
-- 💬 Me pergunte sobre **Power Bi, SQL, Excel e Python**
+Beyond predictive modeling, I also develop **Generative AI products** from end to end, including AI-powered applications, internal toolkits, and intelligent solutions that streamline data preparation, automate workflows, and improve analyst productivity.
 
-- 📫 Você me encontra através do e-mail **lucasmissiasmenghi@gmail.com**
+I have solid expertise in the **Databricks Lakehouse Platform**, building scalable production-ready solutions with **Databricks Workflows, Unity Catalog, Delta Lake, PySpark, SQL, ML pipelines, Model Serving, and AI capabilities**.
 
-- 📄 Sou um profissional de Data Science & Analytics com vasta experiência em áreas de negócio, sempre assumindo a posição técnica de um time multidisciplinar. Já atuei em diversos segmentos (varejo, indústria, meios de pagamento e microbiologia) e fui responsável pelo desenvolvimento de dashboards e modelagens nas área de Qualidade (Auditoria Laboratorial), Pricing, Canais Digitais, Marketing, Central de Atendimento, CRM, Orçamento e Laboratório de Imunologia). Hoje atuo como Data Science & Analýtics Pl na Cielo, e sou responsável pelas modelagens de Ciclo de Vida, Churn e Inativação. Além de dar sustentação na relatoria dos Canais Digitais. [https://www.linkedin.com/in/lucas-menghi-missias-284b13202/](https://www.linkedin.com/in/lucas-menghi-missias-284b13202/)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-menghi-missias-284b13202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-menghi-missias-284b13202/" height="30" width="40" /></a>
-<a href="https://instagram.com/@lucasmenghi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lucasmenghi_" height="30" width="40" /></a>
-</p>
+## 🚀 Current Focus
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+* 🔭 **Data Scientist at Cielo**
+* 🤖 End-to-end development of Machine Learning models for **Product Propensity**, **Customer Churn**, and **Customer Lifecycle**
+* 🚀 End-to-end development of **Generative AI products**, including AI applications and internal toolkits
+* ⚙️ Building scalable data and ML solutions using **Databricks, Python, SQL, PySpark, BigQuery, and cloud technologies**
+* 📊 Supporting Product, CRM, Marketing, and Business teams through advanced analytics and predictive modeling
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmenghi&show_icons=true&locale=en&layout=compact" alt="lucasmenghi" /></p>
+---
 
+## 🎓 Education
 
-<!--
-**lucasmenghi/lucasmenghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 **Postgraduate Degree in Data Science, Analytics & Artificial Intelligence** — **University of São Paulo (USP)**
+* 🎓 **Technology Degree in Financial Management**
 
-Here are some ideas to get you started:
+My academic background combines **Finance** with **Data Science and Artificial Intelligence**, allowing me to bridge technical solutions with real business challenges, especially in financial services and digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌎 Open to Opportunities
+
+I'm currently looking for **remote international part-time opportunities** in:
+
+* Data Science
+* Machine Learning
+* Generative AI
+* Product Analytics
+* Data Engineering
+
+I have **professional working proficiency in English** and enjoy collaborating with distributed, multicultural teams.
+
+---
+
+## 💡 Technical Skills
+
+**Programming**
+
+* Python
+* SQL
+
+**Machine Learning**
+
+* Scikit-learn
+* Predictive Modeling
+* Feature Engineering
+* Model Evaluation
+
+**Generative AI**
+
+* LLM Applications
+* AI Agents
+* AI Toolkits
+* Prompt Engineering
+
+**Databricks**
+
+* Databricks Lakehouse
+* Unity Catalog
+* Delta Lake
+* PySpark
+* Workflows
+* Model Serving
+* ML Pipelines
+* SQL Warehouses
+
+**Cloud**
+
+* AWS
+* Google Cloud Platform (GCP)
+
+**Analytics**
+
+* Power BI
+* Tableau
+* Looker Studio
+
+**Databases**
+
+* SQL Server
+* Oracle
+* MySQL
+* BigQuery
+
+---
+
+## 📫 Contact
+
+📧 **[lucasmissiasmenghi@gmail.com](mailto:lucasmissiasmenghi@gmail.com)**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/lucas-menghi-missias-284b13202/
